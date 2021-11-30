@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="meetmakwana19 | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
-[<img align="left" alt="meetmakwana19 | Twitter" width="22px" src="twitter.png" />][twitter]
-[<img align="left" alt="meetmakwana19 | Instagram" width="22px" src="instagram.png" />][instagram]
-[<img align="left" alt="meetmakwana19 | Instagram" width="22px" src="/facebook.png" />][facebook]
+[<img align="left" alt="meetmakwana19 | LinkedIn" width="22px" src="/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="meetmakwana19 | Twitter" width="22px" src="/icons/twitter.png" />][twitter]
+[<img align="left" alt="meetmakwana19 | Instagram" width="22px" src="/icons/instagram.png" />][instagram]
+[<img align="left" alt="meetmakwana19 | Instagram" width="22px" src="/icons/facebook.png" />][facebook]
 
 ---
 
