@@ -40,7 +40,7 @@
 ---
 
 Let me present you something awesome of which I am very proud and motivated me to learn more about git and builf confidence over git.
-Hope it's useful to you too ! Here's  it -> [My Git Cheatsheet <img alt="Document" width="24px" padding-bottom="10px" margin-top="10px" src="/icons/document.png" />](https://github.com/meetmakwana19/about-git/blob/master/README.md) 
+Hope it's useful to you too ! Here's  it -> [My Git Cheatsheet <img alt="Document" width="24px" padding-bottom="10px" padding-top="10px" src="/icons/document.png" />](https://github.com/meetmakwana19/about-git/blob/master/README.md) 
 
 
 
