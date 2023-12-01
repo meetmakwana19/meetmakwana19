@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MeetMakzz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeetmakwana19&screen_name=MeetMakzz)
 
-## I'm a Computer Engineering Student !!
+## I'm a Computer Science Engineer 
 
 - 👀 I’m interested in learning more about microprocessors
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers and students
+- 🌱 I’m currently working professionally as a full stack web developer
+- 👯 I’m looking to collaborate with other programmers
 - ⚡ Fun fact: I love to watch MCU movies & shows and enjoy One Direction Songs alot !
 
 ### Connect with me:
